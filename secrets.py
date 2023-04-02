@@ -1,1 +1,1 @@
-password = "some password."
+password = "an other password"
