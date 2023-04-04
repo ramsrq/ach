@@ -1,1 +1,1 @@
-password = "an other password"
+password = "my_password"
