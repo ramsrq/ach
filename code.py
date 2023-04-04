@@ -12,4 +12,3 @@ if board_id == Definitions.RASPBERRY_PI_PICO_ID or \
     ACH.start(customPrint) 
 else:
     print("Unknown board: " + board_id)
-

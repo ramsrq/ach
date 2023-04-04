@@ -1,1 +1,1 @@
-password = "my_password"
+ducky_script = "duckyscript.txt"

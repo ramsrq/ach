@@ -8,7 +8,7 @@ from scripts.utils import Definitions
 from scripts.utils import Led
 from scripts.utils import CustomButton
 from scripts.utils import CustomPrint
-from scripts.hid_ducky import HID_Ducky
+from scripts.ducky import Ducky
 
 class ACH:
     
@@ -93,9 +93,9 @@ class ACH:
                 led.led_off()
                 time.sleep(1)
                 led.led_on(color = Definitions.PURPLE)
-                time.sleep(5)
+                time.sleep(1)
 
-                HID_Ducky.start()
+                Ducky.start()
                 
                 status = RUNNING
                 print("Status: RUNNING")
