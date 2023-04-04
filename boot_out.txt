@@ -1,0 +1,9 @@
+Adafruit CircuitPython 8.0.4 on 2023-03-15; Raspberry Pi Pico with rp2040
+Board ID:raspberry_pi_pico
+UID:E66058388342482E
+boot.py output:
+OLED display attached
+boot.py
+Button is pressed?
+True
+USB drive enabled
